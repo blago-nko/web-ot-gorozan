@@ -1,24 +1,27 @@
 ## 📜 Лицензирование
 
-Этот проект использует модель двойного лицензирования согласно [ЛИЦ.md](https://github.com/blago-nko/manifests/blob/main/ЛИЦ.md):
+Этот проект использует модель двойного лицензирования согласно ЛИЦ.md (SAM-LIC-010):
 
-### MIT License
+### GNU Affero General Public License v3.0
+
 Весь программный код, включая:
+
 - HTML/CSS/JS шаблоны
 - Конфигурации Hugo/Next.js
 - CI/CD скрипты (`.github/workflows/*`)
 - Сборочные скрипты
 
-Лицензирован под **MIT License** (см. файл [`LICENSE`](LICENSE)).
+Лицензирован под **GNU Affero General Public License v3.0** (см. файл `LICENSE`).
 
-### CC BY-SA 4.0
+### CC BY-NC 4.0
+
 Смысловой контент, включая:
+
 - Тексты статей и публикаций (`content/`)
 - Биографии, новости, образовательные материалы
 - Изображения авторского контента
 
-Лицензирован под **CC BY-SA 4.0** (см. файл [`LICENSE-CONTENT`](LICENSE-CONTENT)).
-
+Лицензирован под **CC BY-NC 4.0** (см. файл `LICENSE-CONTENT`).
 ---
 
 # ot-gorozan

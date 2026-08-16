@@ -1,0 +1,16 @@
+name: readme-license-check
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: README не должен содержать устаревшие лицензии
+        run: |
+          if grep -nE 'MIT License|CC BY-SA' README.md; then
+            echo "::error::README.md содержит устаревшие лицензии (MIT/CC BY-SA). Актуально: AGPLv3 + CC BY-NC 4.0 (SAM-LIC-010)."
+            exit 1
+          fi
