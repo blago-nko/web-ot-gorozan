@@ -1,0 +1,9 @@
+name: Ecosystem Compliance Check
+on: [pull_request, push]
+jobs:
+  architecture-check:
+    uses: blago-nko/.github/workflows/architecture-check.yml@main
+  protocol-check:
+    uses: blago-nko/.github/workflows/protocol-check.yml@main
+  markdown-lint:
+    uses: blago-nko/.github/workflows/markdown-lint.yml@main
