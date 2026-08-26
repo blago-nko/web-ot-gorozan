@@ -1,0 +1,8 @@
+baseURL = "/"
+languageCode = "ru-ru"
+title = "web-ot-gorozan"
+relativeURLs = true
+
+[params]
+  description = "Миграция с Blogger на Hugo"
+  noindex = true
