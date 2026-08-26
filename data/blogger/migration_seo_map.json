@@ -1,0 +1,19 @@
+{
+  "site": "web-ot-gorozan",
+  "generated_at": "2026-08-26T15:26:44.630253",
+  "source": "data/blogger/sitemap.xml",
+  "total_urls": 9,
+  "redirects_count": 9,
+  "skipped_count": 0,
+  "redirects": {
+    "/2021/11/konkurs-ot-blagodarnyh-gorozhan-v-2021-godu.html": "/konkurs-ot-blagodarnyh-gorozhan-v-2021-godu/",
+    "/2018/10/konkurs-ot-blagodarnyh-gorozhan-5-oktyabrya-2018-goda-na-den-uchitelya.html": "/konkurs-ot-blagodarnyh-gorozhan-5-oktyabrya-2018-goda-na-den-uchitelya/",
+    "/2018/05/konkurs-ot-blagodarnyh-gorozhan-25-maya-2018-goda.html": "/konkurs-ot-blagodarnyh-gorozhan-25-maya-2018-goda/",
+    "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2012-god.html": "/konkurs-ot-blagodarnyh-gorozhan-2012-god/",
+    "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2013-god.html": "/konkurs-ot-blagodarnyh-gorozhan-2013-god/",
+    "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2011-god.html": "/konkurs-ot-blagodarnyh-gorozhan-2011-god/",
+    "/2018/05/polozhenie-o-konkurse.html": "/polozhenie-o-konkurse/",
+    "/2018/05/o-proekte.html": "/o-proekte/",
+    "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2015-god.html": "/konkurs-ot-blagodarnyh-gorozhan-2015-god/"
+  }
+}
