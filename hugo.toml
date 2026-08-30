@@ -1,0 +1,5 @@
+baseURL = "https://blago-nko.github.io/web-ot-gorozan/"
+title = "От горожан"
+languageCode = "ru-ru"
+[params]
+description = "Письма и обращения горожан"

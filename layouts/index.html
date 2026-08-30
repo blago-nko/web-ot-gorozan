@@ -1,5 +1,10 @@
 {{ define "main" }}
 <h1>{{ .Site.Title }}</h1>
-<p>Сайт находится в стадии миграции с Blogger на Hugo.</p>
-{{ .Content }}
+<p>{{ .Site.Params.description }}</p>
+<h2>Последние публикации</h2>
+<ul>
+{{ range first 20 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+<li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="post-meta">{{ .Date.Format "02.01.2006" }}</span></li>
+{{ end }}
+</ul>
 {{ end }}
