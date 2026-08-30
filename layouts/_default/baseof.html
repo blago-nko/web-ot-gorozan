@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ .Title }} — {{ .Site.Title }}</title>
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
 <style>
 body{font-family:Georgia,'Times New Roman',serif;margin:0;background:#faf9f6;color:#222}
 header{background:#22415f;padding:1rem 2rem}header a{color:#fff;text-decoration:none;font-size:1.3rem}
