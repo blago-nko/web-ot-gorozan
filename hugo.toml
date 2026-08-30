@@ -1,5 +1,12 @@
 baseURL = "https://ot-gorozan.blagorussia.ru/"
-title = "От горожан"
 languageCode = "ru-ru"
+title = "Конкурс От благодарных горожан"
+
 [params]
-description = "Письма и обращения горожан"
+  description = "Конкурс От благодарных горожан"
+  author = "НП «Общественное благополучие Воронежа»"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

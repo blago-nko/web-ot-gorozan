@@ -1,5 +1,5 @@
 ---
-title: "Конкурс &quot;От благодарных горожан&quot; 2012 год"
+title: "Конкурс \"От благодарных горожан\" 2012 год"
 description: "#### В 2012 году победителями Конкурса 'От благодарных горожан' были признаны: #### **[Шкред Татьяна Валерьевна](http://www.yablokovrn.ru/vybory-2015-obrasenie-"
 aliases:
   - "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2012-god.html"
