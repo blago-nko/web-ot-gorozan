@@ -14,6 +14,10 @@ concurrency:
   group: pages
   cancel-in-progress: false
 
+env:
+  REPO_NAME: ${{ github.event.repository.name }}
+  PILOT_SUBPATH: "true"
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,11 +30,11 @@ jobs:
           hugo-version: "0.147.0"
       - name: Build
         run: hugo --minify
-      - name: Fix redirect URLs for subpath
+      - name: Fix redirect URLs for subpath (pilot only)
         run: |
-          if [ -d "public/seo-redirects" ]; then
-            find public/seo-redirects -name "*.html" -exec sed -i 's|url="/|url="'${{ github.event.repository.name }}'/|g' {} \;
-            find public/seo-redirects -name "*.html" -exec sed -i 's|href="/|href="'${{ github.event.repository.name }}'/|g' {} \;
+          if [ "$PILOT_SUBPATH" = "true" ] && [ -d "public/seo-redirects" ]; then
+            find public/seo-redirects -name "*.html" -exec sed -i "s|url=/|url=/${REPO_NAME}/|g" {} \;
+            find public/seo-redirects -name "*.html" -exec sed -i "s|href=/|href=/${REPO_NAME}/|g" {} \;
           fi
       - name: Configure Pages
         uses: actions/configure-pages@v5
