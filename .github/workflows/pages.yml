@@ -26,6 +26,12 @@ jobs:
           hugo-version: "0.147.0"
       - name: Build
         run: hugo --minify
+      - name: Fix redirect URLs for subpath
+        run: |
+          if [ -d "public/seo-redirects" ]; then
+            find public/seo-redirects -name "*.html" -exec sed -i 's|url="/|url="'${{ github.event.repository.name }}'/|g' {} \;
+            find public/seo-redirects -name "*.html" -exec sed -i 's|href="/|href="'${{ github.event.repository.name }}'/|g' {} \;
+          fi
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
