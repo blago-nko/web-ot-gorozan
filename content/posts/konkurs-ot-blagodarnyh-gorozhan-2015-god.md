@@ -1,5 +1,5 @@
 ---
-title: "Конкурс &quot;От благодарных горожан&quot; 2015 год"
+title: "Конкурс \"От благодарных горожан\" 2015 год"
 description: "#### В 2015 году победителями Конкурса 'От благодарных горожан' были признаны: #### [Сиволдаев Илья Владимирович](https://blogger.googleusercontent.com/img/b/R2"
 aliases:
   - "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2015-god.html"
