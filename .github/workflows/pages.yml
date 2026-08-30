@@ -16,7 +16,7 @@ concurrency:
 
 env:
   REPO_NAME: ${{ github.event.repository.name }}
-  PILOT_SUBPATH: "true"
+  PILOT_SUBPATH: "false"
 
 jobs:
   build:
