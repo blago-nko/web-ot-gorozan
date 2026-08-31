@@ -4,6 +4,7 @@ description: "| | | --- | | [Лихачева Юлия Евгеньевна](htt
 aliases:
   - "/2021/11/konkurs-ot-blagodarnyh-gorozhan-v-2021-godu.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-v-2021-godu/"
+date: 2021-11-01T00:00:00Z
 ---
 
 |  |

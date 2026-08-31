@@ -4,6 +4,7 @@ description: "[![Положение о Конкурсе](https://blogger.googleu
 aliases:
   - "/2018/05/polozhenie-o-konkurse.html"
 url: "/polozhenie-o-konkurse/"
+date: 2018-05-01T00:00:00Z
 ---
 
 [![Положение о Конкурсе](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4JuIRBocXMgIqtJoiCAhYr5CV9rRvCiGjYlseVyOxedMb2BEvPpLxpeuj3zZO64CgNdH8R6rN3o_8FymjgI2qvMB6JVCTRLxzOQjYUhavKbILrnPJdh9IwGftpgwlCiV2lHsCa11GuY5Q/s1600/%25D0%259A%25D0%25BD%25D0%25B8%25D0%25B3%25D0%25B0.jpg "Положение о Конкурсе")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4JuIRBocXMgIqtJoiCAhYr5CV9rRvCiGjYlseVyOxedMb2BEvPpLxpeuj3zZO64CgNdH8R6rN3o_8FymjgI2qvMB6JVCTRLxzOQjYUhavKbILrnPJdh9IwGftpgwlCiV2lHsCa11GuY5Q/s1600/%25D0%259A%25D0%25BD%25D0%25B8%25D0%25B3%25D0%25B0.jpg)
