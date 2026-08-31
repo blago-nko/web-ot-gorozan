@@ -39,6 +39,8 @@ date: 2018-05-01T00:00:00Z
 
 **
 
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrEYgTJJmU_vBExi7oTNtcFlMIyf-UURGk-pXNOWDGY-s6Rg969PXf5i7u_sJirYIUXS-bsRAO-2SLDzNAU3dBB8yCJBjlPxXs5uHAnhpzLsx_MW7Yw2J2IuBo_VUQNVrm9p2aT8vB-La1/s200-rw/%25D0%25A1%25D1%258B%25D1%2581%25D0%25BE%25D0%25B5%25D0%25B2.jpg" alt="Сысоев Александр Николаевич" title="Сысоев Александр Николаевич">
+
 ****
 
 ****Таранцов Юрий Иванович** **
