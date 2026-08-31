@@ -9,7 +9,7 @@ date: 2018-10-01T00:00:00Z
 
 5 октября 2018 года в День Учителя победителями Конкурса "От благодарных горожан" были признаны:
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpIveUUsR1qSZHNIf1hyphenhyphenhGVx6LGG5BBihqRiSayYL5x5a7LlyIuKHmopcvuUqInrLH_xUbC1G_dyeIbEHsizBkcV8jmGRfUswkP9dWHj9wXzeFfRwC511R5wwG2dhK_iFzRwl0IdFzP8A/s640-rw/2018-10-05+12-32-32.JPG" alt="Гуляева Елена Николаевна" title="Гуляева Елена Николаевна">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpIveUUsR1qSZHNIf1hyphenhyphenhGVx6LGG5BBihqRiSayYL5x5a7LlyIuKHmopcvuUqInrLH_xUbC1G_dyeIbEHsizBkcV8jmGRfUswkP9dWHj9wXzeFfRwC511R5wwG2dhK_iFzRwl0IdFzP8A/s1600/2018-10-05+12-32-32.JPG" alt="Гуляева Елена Николаевна" title="Гуляева Елена Николаевна">
 
 ### 
 
@@ -21,7 +21,7 @@ date: 2018-10-01T00:00:00Z
 
 за просветительскую и образовательную деятельность, активную гражданскую позицию и высокие организаторские способности в избирательной компании 2018 года
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii-8A0Ojz89MZFfbSFUAlAfGqHT8nG3nzmuTfw8znt70yIH5vDNqFp_tS2STaRCOYQvNpbWtMaWzGs5nct2LuSJ5JDSIp_rK6SM3oMu9MH6dcxU2BzeUcEU1SpaAcr0fHEJWW8hAfXXx_V/s640-rw/2018-10-05+12-32-00.JPG" alt="Япрынцева Лилия Викторовна" title="Япрынцева Лилия Викторовна">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii-8A0Ojz89MZFfbSFUAlAfGqHT8nG3nzmuTfw8znt70yIH5vDNqFp_tS2STaRCOYQvNpbWtMaWzGs5nct2LuSJ5JDSIp_rK6SM3oMu9MH6dcxU2BzeUcEU1SpaAcr0fHEJWW8hAfXXx_V/s1600/2018-10-05+12-32-00.JPG" alt="Япрынцева Лилия Викторовна" title="Япрынцева Лилия Викторовна">
 
 ### 
 
@@ -33,7 +33,7 @@ date: 2018-10-01T00:00:00Z
 
 за просветительскую и образовательную деятельность, активную гражданскую позицию и организаторскую работу в избирательной компании 2018 года
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjGYAFVdvQVyc8TTYvfoQvNQMr7DXejkb4AZDVRXZcjWgPuzQl5dIPPAbHzvIUn3tQSySRWWWcLoeMCSAOGpLhRlt1wPPXSd0Uhvc2_9R_EBIeq_IECO5tx58Yg0-moBKeQa5gW87IrDtq/s640-rw/2018-10-05+12-26-04.JPG" alt="Шкуропат Анна Евгеньевна" title="Шкуропат Анна Евгеньевна">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjGYAFVdvQVyc8TTYvfoQvNQMr7DXejkb4AZDVRXZcjWgPuzQl5dIPPAbHzvIUn3tQSySRWWWcLoeMCSAOGpLhRlt1wPPXSd0Uhvc2_9R_EBIeq_IECO5tx58Yg0-moBKeQa5gW87IrDtq/s1600/2018-10-05+12-26-04.JPG" alt="Шкуропат Анна Евгеньевна" title="Шкуропат Анна Евгеньевна">
 
 ### 
 
@@ -45,13 +45,13 @@ date: 2018-10-01T00:00:00Z
 
 за просветительскую и образовательную деятельность, активную гражданскую позицию и работу в избирательной компании 2018 года
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9SAYQpnU7Zgyiawe3zRHZBXIKjyiQy36Kfzul4sRpWGCk-l0NePWU3tMlxri-grHvFJg64_Qxqb3e2qF-QLwov18M4uIaEgsyHL6CNHLsy1lMs-vqyUqAjq8QxazZWHlz2DWuAA62jUIB/s640-rw/2018-10-05+12-34-46.JPG" alt="Леонтьев Владимир Анатольевич" title="Леонтьев Владимир Анатольевич">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9SAYQpnU7Zgyiawe3zRHZBXIKjyiQy36Kfzul4sRpWGCk-l0NePWU3tMlxri-grHvFJg64_Qxqb3e2qF-QLwov18M4uIaEgsyHL6CNHLsy1lMs-vqyUqAjq8QxazZWHlz2DWuAA62jUIB/s1600/2018-10-05+12-34-46.JPG" alt="Леонтьев Владимир Анатольевич" title="Леонтьев Владимир Анатольевич">
 
 ### 
 
-Леонтьев Владимир Анатольевич 
+Леонтьев Владимир Анатольевич 
 
-- Заместитель директора по административно хозяйственной  работе муниципального образовательного учреждения лицей № 7, член участковой избирательной комиссии избирательного участка № 14/11 Центрального района города Воронежа
+- Заместитель директора по административно хозяйственной  работе муниципального образовательного учреждения лицей № 7, член участковой избирательной комиссии избирательного участка № 14/11 Центрального района города Воронежа
 
 #### 
 

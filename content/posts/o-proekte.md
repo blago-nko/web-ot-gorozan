@@ -7,7 +7,7 @@ date: 2018-05-01T00:00:00Z
 ---
 Рады приветствовать Вас на проекте Общественное благополучие - конкурс "От благодарных горожан"!
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJRUeUM86BKZm4Ih9DGTvSOGlCxyEfEE3VTpIw1mo8DwZr9AN90mi3k50o6k88Hw4rIG6OravLQffl7wHqgRXSJQM7d95EF0pK_4j6oj4OrXeeZabDWWOW_bkt2cWDM3rggpN2BJqNdpKg/s640-rw/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B5%25D1%2581%25D1%2582%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D0%25B5+%25D0%25B1%25D0%25BB%25D0%25B0%25D0%25B3%25D0%25BE%25D0%25BF%25D0%25BE%25D0%25BB%25D1%2583%25D1%2587%25D0%25B8%25D0%25B5.jpg" alt="конкурс &quot;От благодарных горожан&quot;" title="конкурс &quot;От благодарных горожан&quot;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJRUeUM86BKZm4Ih9DGTvSOGlCxyEfEE3VTpIw1mo8DwZr9AN90mi3k50o6k88Hw4rIG6OravLQffl7wHqgRXSJQM7d95EF0pK_4j6oj4OrXeeZabDWWOW_bkt2cWDM3rggpN2BJqNdpKg/s1600/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B5%25D1%2581%25D1%2582%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D0%25B5+%25D0%25B1%25D0%25BB%25D0%25B0%25D0%25B3%25D0%25BE%25D0%25BF%25D0%25BE%25D0%25BB%25D1%2583%25D1%2587%25D0%25B8%25D0%25B5.jpg" alt="конкурс &quot;От благодарных горожан&quot;" title="конкурс &quot;От благодарных горожан&quot;">
 
 #### 
 
@@ -99,4 +99,4 @@ date: 2018-05-01T00:00:00Z
 
 Президент [НП "Общественное благополучие Воронежа"](http://partnerstvo.blagorussia.ru/)
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisIdnOOTWsXEd-1zUKRtR9ofzSDb5X_-6Afh4C4NcI7K2Fk_4NwVbWnvp2kqLhVWS45OPrU_7uwFijMFqO16D1LQ1-P9ufAtPXLwCl9zmst9usDposXv80gknlzIQjYAKVJ-0n1n27HO7_/s200-rw/DSC_3810.JPG" alt="Бобров Александр Валентинович" title="Бобров Александр Валентинович">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisIdnOOTWsXEd-1zUKRtR9ofzSDb5X_-6Afh4C4NcI7K2Fk_4NwVbWnvp2kqLhVWS45OPrU_7uwFijMFqO16D1LQ1-P9ufAtPXLwCl9zmst9usDposXv80gknlzIQjYAKVJ-0n1n27HO7_/s1600/DSC_3810.JPG" alt="Бобров Александр Валентинович" title="Бобров Александр Валентинович">

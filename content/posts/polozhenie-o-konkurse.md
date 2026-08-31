@@ -11,7 +11,7 @@ date: 2018-05-01T00:00:00Z
 
 с изменениями от 18.04.2018 г. № 43/2018
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4JuIRBocXMgIqtJoiCAhYr5CV9rRvCiGjYlseVyOxedMb2BEvPpLxpeuj3zZO64CgNdH8R6rN3o_8FymjgI2qvMB6JVCTRLxzOQjYUhavKbILrnPJdh9IwGftpgwlCiV2lHsCa11GuY5Q/s640-rw/%25D0%259A%25D0%25BD%25D0%25B8%25D0%25B3%25D0%25B0.jpg" alt="Положение о Конкурсе" title="Положение о Конкурсе">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4JuIRBocXMgIqtJoiCAhYr5CV9rRvCiGjYlseVyOxedMb2BEvPpLxpeuj3zZO64CgNdH8R6rN3o_8FymjgI2qvMB6JVCTRLxzOQjYUhavKbILrnPJdh9IwGftpgwlCiV2lHsCa11GuY5Q/s1600/%25D0%259A%25D0%25BD%25D0%25B8%25D0%25B3%25D0%25B0.jpg" alt="Положение о Конкурсе" title="Положение о Конкурсе">
 
 #### 
 
