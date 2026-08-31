@@ -7,7 +7,7 @@ date: 2018-05-01T00:00:00Z
 ---
 Рады приветствовать Вас на проекте Общественное благополучие - конкурс "От благодарных горожан"!
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJRUeUM86BKZm4Ih9DGTvSOGlCxyEfEE3VTpIw1mo8DwZr9AN90mi3k50o6k88Hw4rIG6OravLQffl7wHqgRXSJQM7d95EF0pK_4j6oj4OrXeeZabDWWOW_bkt2cWDM3rggpN2BJqNdpKg/s640-rw/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B5%25D1%2581%25D1%2582%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D0%25B5+%25D0%25B1%25D0%25BB%25D0%25B0%25D0%25B3%25D0%25BE%25D0%25BF%25D0%25BE%25D0%25BB%25D1%2583%25D1%2587%25D0%25B8%25D0%25B5.jpg" alt="конкурс "От благодарных горожан"" title="конкурс "От благодарных горожан"">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJRUeUM86BKZm4Ih9DGTvSOGlCxyEfEE3VTpIw1mo8DwZr9AN90mi3k50o6k88Hw4rIG6OravLQffl7wHqgRXSJQM7d95EF0pK_4j6oj4OrXeeZabDWWOW_bkt2cWDM3rggpN2BJqNdpKg/s640-rw/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B5%25D1%2581%25D1%2582%25D0%25B2%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25BE%25D0%25B5+%25D0%25B1%25D0%25BB%25D0%25B0%25D0%25B3%25D0%25BE%25D0%25BF%25D0%25BE%25D0%25BB%25D1%2583%25D1%2587%25D0%25B8%25D0%25B5.jpg" alt="конкурс &quot;От благодарных горожан&quot;" title="конкурс &quot;От благодарных горожан&quot;">
 
 #### 
 
