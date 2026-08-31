@@ -1,6 +1,6 @@
 ---
-title: "Конкурс \\"От благодарных горожан\\" 25 мая 2018 года"
-description: "[![Конкурс 'От благодарных горожан' 25 мая 2018 года](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5WAzrQjfnKIT2ZO2gUrQzztXDpVx9hxxmTcGUfdbzix1G"
+title: "Конкурс \\\"От благодарных горожан\\\" 25 мая 2018 года"
+
 aliases:
   - "/2018/05/konkurs-ot-blagodarnyh-gorozhan-25-maya-2018-goda.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-25-maya-2018-goda/"
