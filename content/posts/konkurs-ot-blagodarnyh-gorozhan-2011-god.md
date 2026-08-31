@@ -1,6 +1,5 @@
 ---
 title: "Конкурс \"От благодарных горожан\" 2011 год"
-
 aliases:
   - "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2011-god.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-2011-god/"

@@ -1,6 +1,5 @@
 ---
 title: "Конкурс От благодарных горожан в 2021 году"
-
 aliases:
   - "/2021/11/konkurs-ot-blagodarnyh-gorozhan-v-2021-godu.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-v-2021-godu/"
