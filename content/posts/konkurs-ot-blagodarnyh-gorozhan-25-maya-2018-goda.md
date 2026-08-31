@@ -5,7 +5,7 @@ aliases:
 url: "/konkurs-ot-blagodarnyh-gorozhan-25-maya-2018-goda/"
 date: 2018-05-01T00:00:00Z
 ---
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5WAzrQjfnKIT2ZO2gUrQzztXDpVx9hxxmTcGUfdbzix1GBLM0sFlkjZBwCn7Ao_sCW-fa5UN8nBOSSOZtYTdbPBi3IEmsQ5ino65b_f_DCYSZIE9CL5peBJZDXeNe7yeXuv-iEUCJngI/s1600-rw/2018-05-25+13-27-06.JPG" alt="Конкурс "От благодарных горожан" 25 мая 2018 года" title="Конкурс "От благодарных горожан" 25 мая 2018 года">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5WAzrQjfnKIT2ZO2gUrQzztXDpVx9hxxmTcGUfdbzix1GBLM0sFlkjZBwCn7Ao_sCW-fa5UN8nBOSSOZtYTdbPBi3IEmsQ5ino65b_f_DCYSZIE9CL5peBJZDXeNe7yeXuv-iEUCJngI/s1600-rw/2018-05-25+13-27-06.JPG" alt="Конкурс &quot;От благодарных горожан&quot; 25 мая 2018 года" title="Конкурс &quot;От благодарных горожан&quot; 25 мая 2018 года">
 
 #### 
 
