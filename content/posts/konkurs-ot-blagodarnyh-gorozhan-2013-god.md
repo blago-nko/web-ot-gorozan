@@ -1,5 +1,5 @@
 ---
-title: "Конкурс \\\"От благодарных горожан 2013 год"
+title: "Конкурс \"От благодарных горожан 2013 год"
 
 aliases:
   - "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2013-god.html"
