@@ -1,6 +1,5 @@
 ---
 title: "О проекте"
-
 aliases:
   - "/2018/05/o-proekte.html"
 url: "/o-proekte/"

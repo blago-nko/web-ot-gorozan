@@ -1,6 +1,5 @@
 ---
 title: "Положение о Конкурсе"
-
 aliases:
   - "/2018/05/polozhenie-o-konkurse.html"
 url: "/polozhenie-o-konkurse/"
