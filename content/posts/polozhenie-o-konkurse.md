@@ -1,6 +1,6 @@
 ---
 title: "Положение о Конкурсе"
-description: "[![Положение о Конкурсе](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4JuIRBocXMgIqtJoiCAhYr5CV9rRvCiGjYlseVyOxedMb2BEvPpLxpeuj3zZO64CgNdH8R6rN3o"
+
 aliases:
   - "/2018/05/polozhenie-o-konkurse.html"
 url: "/polozhenie-o-konkurse/"

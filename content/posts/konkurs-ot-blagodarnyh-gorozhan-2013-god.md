@@ -1,6 +1,6 @@
 ---
-title: "Конкурс \\"От благодарных горожан 2013 год"
-description: "#### В 2013 году победителями Конкурса 'От благодарных горожан' были признаны: #### [Шаталов Геннадий Васильевич](https://blogger.googleusercontent.com/img/b/R2"
+title: "Конкурс \\\"От благодарных горожан 2013 год"
+
 aliases:
   - "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2013-god.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-2013-god/"

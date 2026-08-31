@@ -1,6 +1,6 @@
 ---
 title: "О проекте"
-description: "[![конкурс 'От благодарных горожан'](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJRUeUM86BKZm4Ih9DGTvSOGlCxyEfEE3VTpIw1mo8DwZr9AN90mi3k50o6k88Hw"
+
 aliases:
   - "/2018/05/o-proekte.html"
 url: "/o-proekte/"

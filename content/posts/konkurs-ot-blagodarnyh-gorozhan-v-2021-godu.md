@@ -1,6 +1,6 @@
 ---
 title: "Конкурс От благодарных горожан в 2021 году"
-description: "| | | --- | | [Лихачева Юлия Евгеньевна](https://blogger.googleusercontent.com/img/a/AVvXsEhURNhODDQjxig9vuPJrY3mSXC2jUnWihhhUvSQ-xUpAFYcZn5nTmro6kvJwpXr99XmJNj"
+
 aliases:
   - "/2021/11/konkurs-ot-blagodarnyh-gorozhan-v-2021-godu.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-v-2021-godu/"
