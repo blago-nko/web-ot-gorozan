@@ -1,9 +1,10 @@
 ---
-title: "Конкурс \"От благодарных горожан\" 2011 год"
+title: "Конкурс \\"От благодарных горожан\\" 2011 год"
 description: "#### В 2011 году победителями Конкурса 'От благодарных горожан' были признаны: #### [Валерий Пельш](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg"
 aliases:
   - "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2011-god.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-2011-god/"
+date: 2018-05-01T00:00:00Z
 ---
 
 #### В 2011 году победителями Конкурса "От благодарных горожан" были признаны:
