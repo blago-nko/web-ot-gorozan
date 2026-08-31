@@ -56,3 +56,5 @@ date: 2018-05-01T00:00:00Z
 - Генеральный директор ООО “СпецСтройТехнологии”.
 
 За деятельность по координации движения против добычи никеля в Черноземье.
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6h4Yn3tqLHeNc8lqB86c4ctONIz0sq37SDQ9Un6NYlTAWr-MRPAWNbZ3i2f2NeeCOT-SURvlSZRxQH7Bd1-l-UBL5XFXGa1vhxk6ItbXSd8CbUeLfwmXj9LDqqY4jpnBdvHwUJLAvyHyJ/s200-rw/%25D0%25A2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BA%25D0%25B0%25D0%25BD%25D0%25BE%25D0%25B21.jpg" alt="Тараканов Андрей Викторович" title="Тараканов Андрей Викторович">

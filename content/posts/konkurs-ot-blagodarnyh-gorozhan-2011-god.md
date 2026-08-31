@@ -48,3 +48,5 @@ date: 2018-05-01T00:00:00Z
 - Генеральный директор ЗАО ИД "Свободная пресса".
 
 За многочисленные проекты Электронного издания «МОЁ! Online», направленные на увеличение благополучия и открытости информации в Воронеже
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhktvWWtAXZ80LS2QuPKQuFlZRqtkARs3-lJ1L0YooTrg65Y43XRopR8Ux5tyk5AzjWUlH6WziQ1gwaGdUfd2qwprTvgx-GG230lkn5HnCy4Q-rWJUxLbU61hOzGSM8NDCtjlIuQdvNq7iD/s200-rw/%25D0%25A2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BD%25D1%2586%25D0%25BE%25D0%25B2.jpg" alt="Таранцов Юрий Иванович" title="Таранцов Юрий Иванович">
