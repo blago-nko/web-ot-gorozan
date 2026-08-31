@@ -46,3 +46,5 @@ date: 2018-05-01T00:00:00Z
 - Генеральный директор ООО "Управляющая компания "Средне-Московская" (ТЦ Поиск).
 
 За заботу о жителях города Воронежа проживающих в жилых домах, расположенных около управляемых его организацией объектах торгового центра "Поиск" и облагораживание прилегающей территории, способствующей повышению благополучия жителей Воронежа
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhku8os6chqUJMi0BDyQ-cOvf9kawOl9Mi7g2h0jzHDFG3u7G47TNgDx_ApdsS49Xa7H9OosEru7jmaUeHG3Zhuk0uNBSDQFt7Ajslv2im_3VPE-GyI0z0bszSFDWowR4RpiwXjc8jzbBE_/s200-rw/DSC01378.JPG" alt="" title="">

@@ -98,3 +98,5 @@ date: 2018-05-01T00:00:00Z
 [А.В. Бобров](http://nasa-istoria.blagorussia.ru/biografii/bobrov-aleksandr-valentinovic)
 
 Президент [НП "Общественное благополучие Воронежа"](http://partnerstvo.blagorussia.ru/)
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisIdnOOTWsXEd-1zUKRtR9ofzSDb5X_-6Afh4C4NcI7K2Fk_4NwVbWnvp2kqLhVWS45OPrU_7uwFijMFqO16D1LQ1-P9ufAtPXLwCl9zmst9usDposXv80gknlzIQjYAKVJ-0n1n27HO7_/s200-rw/DSC_3810.JPG" alt="Бобров Александр Валентинович" title="Бобров Александр Валентинович">
