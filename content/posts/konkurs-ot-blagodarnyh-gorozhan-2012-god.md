@@ -1,5 +1,5 @@
 ---
-title: 'Конкурс "От благодарных горожан" 2012 год'
+title: '''Конкурс "От благодарных горожан" 2012 год'''
 aliases:
   - "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2012-god.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-2012-god/"
