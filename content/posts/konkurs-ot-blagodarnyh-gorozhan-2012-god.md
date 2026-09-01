@@ -1,5 +1,5 @@
 ---
-title: '''Конкурс "От благодарных горожан" 2012 год'''
+title: "'Конкурс \"От благодарных горожан\" 2012 год'"
 aliases:
   - "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2012-god.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-2012-god/"
@@ -7,7 +7,7 @@ date: 2018-05-01T00:00:00Z
 ---
 #### В 2012 году победителями Конкурса "От благодарных горожан" были признаны:
 
-#### **[Шкред Татьяна Валерьевна](http://www.yablokovrn.ru/vybory-2015-obrasenie-k-izbiratelam/biografia---skred-tatana-valerevna)**
+#### [**Шкред Татьяна Валерьевна**](http://www.yablokovrn.ru/vybory-2015-obrasenie-k-izbiratelam/biografia---skred-tatana-valerevna)
 
 - Председатель регионального отделения Российской объединенной демократической партии «Яблоко» по Воронежской области. 
 

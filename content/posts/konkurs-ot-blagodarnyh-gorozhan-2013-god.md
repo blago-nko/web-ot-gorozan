@@ -1,5 +1,5 @@
 ---
-title: '''Конкурс "От благодарных горожан 2013 год'''
+title: "'Конкурс \"От благодарных горожан 2013 год'"
 aliases:
   - "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2013-god.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-2013-god/"
@@ -15,7 +15,7 @@ date: 2018-05-01T00:00:00Z
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihtH15ge8XGNJ_TcZoCtZI60Z-MpHlefnpR5OWdWM3eovUnr-Wz_dBpm_f3GsXfZx3RMrw7YhtfA4qcaeTMHX6ZNoCajC5TQzZQYwPfpym5BG2Iztkl7sQanwX27NGPamO8G6FRHTe-vcx/s1600/IMG_0706%255B1%255D.JPG" alt="Шаталов Геннадий Васильевич" title="Шаталов Геннадий Васильевич">
 
-#### **[Хлебостроев Виктор Григорьевич](http://www.yablokovrn.ru/vybory-2015-obrasenie-k-izbiratelam/biografia---hlebostroev-viktor-grigorevic)** 
+#### [**Хлебостроев Виктор Григорьевич**](http://www.yablokovrn.ru/vybory-2015-obrasenie-k-izbiratelam/biografia---hlebostroev-viktor-grigorevic) 
 
 - член Регионального совета [Воронежского регионального отделения Партии "ЯБЛОКО"](http://www.yablokovrn.ru/), доцент кафедры программирования и информационных технологий Воронежского государственного университета, кандидат физико-математических наук.
 

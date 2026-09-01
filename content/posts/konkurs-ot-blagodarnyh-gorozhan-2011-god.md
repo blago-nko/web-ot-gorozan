@@ -1,5 +1,5 @@
 ---
-title: '''Конкурс "От благодарных горожан" 2011 год'''
+title: "'Конкурс \"От благодарных горожан\" 2011 год'"
 aliases:
   - "/2018/05/konkurs-ot-blagodarnyh-gorozhan-2011-god.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-2011-god/"
@@ -21,7 +21,7 @@ date: 2018-05-01T00:00:00Z
 
 За последовательные положительные реагирования на каждое обращение граждан и достойную личную нравственную жизнь
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrEYgTJJmU_vBExi7oTNtcFlMIyf-UURGk-pXNOWDGY-s6Rg969PXf5i7u_sJirYIUXS-bsRAO-2SLDzNAU3dBB8yCJBjlPxXs5uHAnhpzLsx_MW7Yw2J2IuBo_VUQNVrm9p2aT8vB-La1/s1600/%25D0%25A1%25D1%258B%25D1%2581%25D0%25BE%25D0%25B5%25D0%25B2.jpg" alt="Сысоев Александр Николаевич" title="Сысоев Александр Николаевич">
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhktvWWtAXZ80LS2QuPKQuFlZRqtkARs3-lJ1L0YooTrg65Y43XRopR8Ux5tyk5AzjWUlH6WziQ1gwaGdUfd2qwprTvgx-GG230lkn5HnCy4Q-rWJUxLbU61hOzGSM8NDCtjlIuQdvNq7iD/s1600/%25D0%25A2%25D0%25B0%25D1%2580%25D0%25B0%25D0%25BD%25D1%2586%25D0%25BE%25D0%25B2.jpg"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrEYgTJJmU_vBExi7oTNtcFlMIyf-UURGk-pXNOWDGY-s6Rg969PXf5i7u_sJirYIUXS-bsRAO-2SLDzNAU3dBB8yCJBjlPxXs5uHAnhpzLsx_MW7Yw2J2IuBo_VUQNVrm9p2aT8vB-La1/s1600/%25D0%25A1%25D1%258B%25D1%2581%25D0%25BE%25D0%25B5%25D0%25B2.jpg" alt="Сысоев Александр Николаевич" title="Сысоев Александр Николаевич"></a>
 
 **Таранцов Юрий Иванович** 
 
