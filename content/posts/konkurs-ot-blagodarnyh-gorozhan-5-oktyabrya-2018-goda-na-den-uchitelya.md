@@ -1,5 +1,5 @@
 ---
-title: "Конкурс \"От благодарных горожан\" 5 октября 2018 года на День Учителя"
+title: 'Конкурс "От благодарных горожан" 5 октября 2018 года на День Учителя'
 aliases:
   - "/2018/10/konkurs-ot-blagodarnyh-gorozhan-5-oktyabrya-2018-goda-na-den-uchitelya.html"
 url: "/konkurs-ot-blagodarnyh-gorozhan-5-oktyabrya-2018-goda-na-den-uchitelya/"
